@@ -85,7 +85,7 @@ function login() {
 
   if (user) {
     alert("Login successful!");
-    window.location.href = "index.html";
+    window.location.href = "index2.html";
     return true;
   } else {
     alert("Login failed!");
